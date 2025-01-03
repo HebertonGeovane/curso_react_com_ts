@@ -8,6 +8,7 @@ function App() {
     <>
     {/* 6.1 - Criação de componente */}
     <Welcome />
+    {/* 6.3 - Componente dentro de componente */}
     </>
   )
 }
