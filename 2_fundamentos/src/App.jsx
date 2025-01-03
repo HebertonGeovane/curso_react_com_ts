@@ -6,6 +6,7 @@ import Descricao from './components/Descricao'
 import Cachorro from './components/Cachorro'
 import Counter from './components/Counter'
 import UserInfoForm from './components/UseInfoForm'
+import Button from './components/Button'
 function App() {
  
   return (
@@ -24,6 +25,8 @@ function App() {
     <Counter />
     {/* 6.7 Múltilplos estados */}
     <UserInfoForm />
+    {/* 6.8 Eventos */}
+    <Button />
     </>
   )
 }
